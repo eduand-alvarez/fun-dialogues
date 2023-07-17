@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # PyPi build
-setup.cfg
-pyproject.toml
+*.cfg
+*.toml
