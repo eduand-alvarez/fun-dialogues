@@ -1,13 +1,17 @@
 # fun dialogues
-A repository of fictitious dialogues that can be used to train language models or augment prompts. Fun dialogues currently come in json format for easy ingestion or conversion to popular data structures. Dialogues span various topics such as sports, retail, academia, healthcare, and more.
+A repository of fictitious dialogues that can be used to train language models or augment prompts for prototyping and educational purposes. Fun dialogues currently come in json format for easy ingestion or conversion to popular data structures. Dialogues span various topics such as sports, retail, academia, healthcare, and more.
 
 ![logo](https://github.com/eduand-alvarez/fun_dialogues/blob/main/assets/fun_dialogues.png)
 
 # Available Dialogues
-- customer service
-- academia
-- healthcare
-- sports
+- Customer Service
+  - Grocery Cashier: 100 fictitous examples of dialogues between a customer at a grocery store and the cashier.
+- Academia
+  - Physics Office Hours: 100 fictitous examples of dialogues between a physics professor and a student during office hours. 
+- Healthcare
+  - Minor Consultation: 100 fictitous examples of dialogues between a doctor and a patient during a minor medical consultation.
+- Sports
+  - Basketball Coach: 100 fictitous examples of dialogues between a basketball coach and the players on the court during a game.
 
 ## How to Contribute
 If you want to contribute to this project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
