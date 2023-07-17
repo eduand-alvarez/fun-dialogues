@@ -1,7 +1,7 @@
 # fun dialogues
 A library of fictitious dialogues that can be used to train language models or augment prompts for prototyping and educational purposes. Fun dialogues currently come in json format for easy ingestion or conversion to popular data structures. Dialogues span various topics such as sports, retail, academia, healthcare, and more. The library also includes basic tooling for loading dialogues and will include quick chatbot prototyping functionality in the future.
 
-![logo](https://github.com/eduand-alvarez/fun_dialogues/blob/main/assets/fun_dialogues.png)
+![logo](./assets/fun_dialogues.png)
 
 # Available Dialogues
 - Customer Service
@@ -23,7 +23,7 @@ Loading dialogues can be accomplished using the fun dialogues library or Hugging
 
 2. Use loader utility to load dataset as pandas dataframe. Further processing might be required for use.
 ```
-from fun_dialogues import dialoader
+from fundialogues import dialoader
 
 # load as pandas dataframe
 bball_coach = dialoader('sports', 'basketball_coach')
