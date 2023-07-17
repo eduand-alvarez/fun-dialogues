@@ -23,7 +23,7 @@ Loading dialogues can be accomplished using the fun dialogues library or Hugging
 
 2. Use loader utility to load dataset as pandas dataframe. Further processing might be required for use.
 ```
-from fundialogues import dialoader
+from fun_dialogues import dialoader
 
 #load as pandas dataframe
 bball_coach = dialoader('sports', 'basketball_coach')
