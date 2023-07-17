@@ -25,7 +25,7 @@ Loading dialogues can be accomplished using the fun dialogues library or Hugging
 ```
 from fun_dialogues import dialoader
 
-#load as pandas dataframe
+# load as pandas dataframe
 bball_coach = dialoader('sports', 'basketball_coach')
 ```
 
