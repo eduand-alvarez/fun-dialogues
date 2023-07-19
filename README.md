@@ -1,17 +1,17 @@
 # fun dialogues
-A library of fictitious dialogues that can be used to train language models or augment prompts for prototyping and educational purposes. Fun dialogues currently come in json format for easy ingestion or conversion to popular data structures. Dialogues span various topics such as sports, retail, academia, healthcare, and more. The library also includes basic tooling for loading dialogues and will include quick chatbot prototyping functionality in the future.
+A library of fictitious dialogues that can be used to train language models or augment prompts for prototyping and educational purposes. Fun dialogues currently come in json and csv format for easy ingestion or conversion to popular data structures. Dialogues span various topics such as sports, retail, academia, healthcare, and more. The library also includes basic tooling for loading dialogues and will include quick chatbot prototyping functionality in the future.
 
 ![fun_dialogues](https://github.com/eduand-alvarez/fun-dialogues/assets/57263404/b4a29056-5220-4299-9a15-50beca4bdc1c)
 
 # Available Dialogues
 - Customer Service
-  - Grocery Cashier: 100 fictitous examples of dialogues between a customer at a grocery store and the cashier.
+  - Grocery Cashier: 100 fictitious examples of dialogues between a customer at a grocery store and the cashier.
 - Academia
-  - Physics Office Hours: 100 fictitous examples of dialogues between a physics professor and a student during office hours. 
+  - Physics Office Hours: 100 fictitious examples of dialogues between a physics professor and a student during office hours. 
 - Healthcare
-  - Minor Consultation: 100 fictitous examples of dialogues between a doctor and a patient during a minor medical consultation.
+  - Minor Consultation: 100 fictitious examples of dialogues between a doctor and a patient during a minor medical consultation.
 - Sports
-  - Basketball Coach: 100 fictitous examples of dialogues between a basketball coach and the players on the court during a game.
+  - Basketball Coach: 100 fictitious examples of dialogues between a basketball coach and the players on the court during a game.
  
 # How to Load Dialogues
 Loading dialogues can be accomplished using the fun dialogues library or Hugging Face datasets library. 
