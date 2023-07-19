@@ -5,13 +5,13 @@ A library of fictitious dialogues that can be used to train language models or a
 
 # Available Dialogues
 - Customer Service
-  - Grocery Cashier: 100 fictitous examples of dialogues between a customer at a grocery store and the cashier.
+  - Grocery Cashier: 100 fictitious examples of dialogues between a customer at a grocery store and the cashier.
 - Academia
-  - Physics Office Hours: 100 fictitous examples of dialogues between a physics professor and a student during office hours. 
+  - Physics Office Hours: 100 fictitious examples of dialogues between a physics professor and a student during office hours. 
 - Healthcare
-  - Minor Consultation: 100 fictitous examples of dialogues between a doctor and a patient during a minor medical consultation.
+  - Minor Consultation: 100 fictitious examples of dialogues between a doctor and a patient during a minor medical consultation.
 - Sports
-  - Basketball Coach: 100 fictitous examples of dialogues between a basketball coach and the players on the court during a game.
+  - Basketball Coach: 100 fictitious examples of dialogues between a basketball coach and the players on the court during a game.
  
 # How to Load Dialogues
 Loading dialogues can be accomplished using the fun dialogues library or Hugging Face datasets library. 
