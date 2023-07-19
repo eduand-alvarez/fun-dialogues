@@ -1,0 +1,101 @@
+,id,description,dialogue
+0,1,Motivating the team,"Coach: Let's give it our all, team! We've trained hard for this game, and I know we can come out on top if we work together."
+1,2,Encouraging a player,"Coach: Great job, Sarah! Your defense is really disrupting their plays. Keep up the pressure!"
+2,3,Instructing on defensive positioning,"Coach: John, make sure you stay low and move your feet on defense. Don't give them an easy path to the basket."
+3,4,Discussing offensive strategies,Coach: We need to attack the paint more aggressively. Drive to the basket and look for opportunities to score or draw fouls.
+4,5,Analyzing the opponent's defense,Coach: They're playing a zone defense. Look for gaps in their coverage and move the ball quickly to find open shots.
+5,6,Calling for a defensive switch,Coach: Switch on screens! Communicate and stay with your assigned players. We can't allow easy baskets.
+6,7,Correcting a player's shot selection,"Coach: Good shot selection, Alex! But next time, take a moment to square up and get your feet set before shooting."
+7,8,Encouraging teamwork,"Coach: Great ball movement, team! Keep looking for the open teammate and trust each other. We're creating good scoring opportunities."
+8,9,Providing feedback on rebounding,"Coach: Excellent job on the boards, Lisa! Keep boxing out and fighting for those rebounds. We need those second-chance opportunities."
+9,10,Instructing on offensive spacing,"Coach: Remember, spacing is key on offense. Stay spread out, create passing lanes, and be ready to move without the ball."
+10,11,Calling for a pick-and-roll,Coach: Set a screen and roll to the basket! Let's run a pick-and-roll play to create scoring opportunities.
+11,12,Providing instructions during a timeout,"Coach: Alright, team. We need to tighten up our defense and communicate better. Offensively, let's run our plays and execute with precision."
+12,13,Commending a player's hustle,"Coach: That's the hustle we need, Jake! You're diving for loose balls and giving it your all. Keep up the energy!"
+13,14,Calling for a fast break,"Coach: Push the ball up the court, team! Let's take advantage of our speed and attack in transition."
+14,15,Encouraging communication on defense,"Coach: Talk on defense, guys! Call out screens, switches, and help each other. Communication is vital to our defensive success."
+15,16,Reinforcing the importance of free throws,"Coach: Free throws win games, so let's focus and knock them down. Take your time, follow through, and trust your form."
+16,17,Discussing offensive adjustments,Coach: They're shutting down our inside game. Let's spread them out and attack from the perimeter. Look for open shooters and drive to the basket when available.
+17,18,Calling for defensive intensity,"Coach: We need to step up our defense, team! Get in their faces, contest every shot, and force turnovers."
+18,19,Instructing on help defense,"Coach: Remember, help defense is crucial. Rotate and provide support to teammates when they're beaten off the dribble."
+19,20,Urging for a defensive stop,"Coach: Dig deep, team! We need a stop here. Lock down on defense and make them work for every shot."
+20,21,Providing feedback on offensive decision-making,"Coach: Good job, Emily, on the drive! But next time, keep your head up and look for open teammates for a kick-out pass."
+21,22,Calling for a timeout,Coach: Timeout! We need to regroup and make some adjustments. Let's discuss our game plan and get back on track.
+22,23,Encouraging a player to step up,"Coach: We need you to be more aggressive, Josh. Look for your shot and attack the basket. We believe in your scoring ability."
+23,24,Instructing on defensive closeouts,"Coach: When closing out on shooters, remember to stay low and have active hands. Force them into tough shots."
+24,25,Analyzing offensive opportunities,Coach: They're struggling to guard our pick-and-roll. Let's keep running it and exploit their defensive weaknesses.
+25,26,Providing feedback on shot selection,"Coach: Good shot, Mike! You had an open look and took it with confidence. Keep shooting when you're open."
+26,27,Calling for a defensive trap,Coach: Trap the ball handler! Let's apply pressure and force a turnover in the backcourt.
+27,28,Encouraging resilience,"Coach: Don't get discouraged, team. We're only down a few points. Let's stay focused and work our way back into this game."
+28,29,Instructing on offensive rebounding,Coach: We're missing too many second-chance opportunities. Crash the offensive boards and create extra possessions.
+29,30,Discussing defensive adjustments,Coach: They're exploiting our weak side defense. Let's rotate quicker and provide better help to prevent easy baskets.
+30,31,Calling for a post-up play,Coach: Feed the ball into the post! Let's take advantage of our size advantage and score inside.
+31,32,Encouraging unselfish play,"Coach: Great job passing up a decent shot for a better one, Mark. Unselfish plays like that make our offense more effective."
+32,33,Calling for a defensive switch,Coach: Switch on screens! Don't get caught flat-footed. Stay with your man and communicate the switches.
+33,34,Providing feedback on defensive rotations,"Coach: Good job rotating on defense, Amy! You closed out on the shooter and contested the shot. Keep up the defensive effort."
+34,35,Instructing on offensive patience,"Coach: Let's be more patient on offense. Move the ball, set screens, and wait for good scoring opportunities to arise."
+35,36,Urging for a strong finish,"Coach: We're in the final quarter, team. Let's give it everything we've got and finish this game strong!"
+36,37,Calling for a defensive rebound,Coach: Secure the defensive rebound! Let's limit their second-chance opportunities and start our fast break.
+37,38,Instructing on defensive pressure,"Coach: Ramp up the defensive pressure, team! Get in their passing lanes, deny easy passes, and force turnovers."
+38,39,Encouraging resilience,"Coach: We're facing some adversity, but I believe in you. Stay focused, stay composed, and let's turn this game around."
+39,40,Providing feedback on shot contesting,"Coach: Great job contesting the shot, Jake! Your defense is making a difference. Keep up the intensity."
+40,41,Calling for a timeout,Coach: Timeout! Let's regroup and make some adjustments. We need to regain control of this game.
+41,42,Instructing on offensive movement,"Coach: We're becoming stagnant on offense. Cut hard, set screens, and keep the ball moving to create scoring opportunities."
+42,43,Calling for a defensive trap,Coach: Double team the ball handler! Let's force a turnover and create a scoring chance in transition.
+43,44,Encouraging a player's decision-making,"Coach: Nice decision to pass the ball, Jenny! You made the right read and found the open teammate for an easy basket."
+44,45,Providing feedback on offensive execution,"Coach: Great job executing the play, guys! We got the open shot we wanted. Let's keep running our sets effectively."
+45,46,Instructing on help defense,"Coach: Remember to provide help defense, especially in the paint. Rotate and contest shots without fouling."
+46,47,Analyzing defensive weaknesses,Coach: They're exploiting our switches. Let's communicate better and be more aggressive in fighting through screens.
+47,48,Encouraging unselfish play,"Coach: Great ball movement, team! Keep making the extra pass and looking for the open teammate. We're finding good shots."
+48,49,Calling for an offensive set,"Coach: Let's run a motion offense! Move without the ball, set screens, and create opportunities for each other."
+49,50,Instructing on defensive closeouts,"Coach: Close out on shooters under control, guys! Don't let them get open looks from beyond the arc."
+50,51,Discussing defensive adjustments,Coach: They're finding success with their dribble penetration. Let's help earlier and collapse on the driver to cut off their path.
+51,52,Encouraging resilience,"Coach: We're facing a tough opponent, but we can't give up. Keep fighting, keep competing, and we can turn this game around."
+52,53,Providing feedback on shot selection,"Coach: Good shot selection, Mike! You had an open look and took it with confidence. Keep shooting when you're in rhythm."
+53,54,Calling for a defensive switch,Coach: Switch on screens! Make sure to communicate the switches and stay with your assigned players.
+54,55,Instructing on offensive patience,"Coach: We're rushing our shots. Let's be more patient on offense, move the ball, and wait for good scoring opportunities."
+55,56,Analyzing offensive opportunities,Coach: They're struggling to guard our pick-and-roll. Let's keep running it and exploit their defensive weaknesses.
+56,57,Urging for a strong defensive effort,"Coach: We need to step up our defense, team! Communicate, stay disciplined, and contest every shot."
+57,58,Discussing offensive adjustments,Coach: They're denying our passes on the perimeter. Let's utilize backdoor cuts and create scoring opportunities inside.
+58,59,Encouraging a player's effort,"Coach: Great hustle, Sarah! You're giving it your all on both ends of the court. Keep up the energy!"
+59,60,Calling for a timeout,Coach: Timeout! We need to regroup and make some adjustments. Let's discuss our game plan and execute it.
+60,61,Instructing on defensive rotations,Coach: We're getting caught out of position on rotations. Let's close out on shooters and contest shots with urgency.
+61,62,Calling for offensive movement,"Coach: Let's increase our off-ball movement, team. Set screens, cut hard, and create opportunities for each other."
+62,63,Encouraging a player's decision-making,"Coach: Good decision, John! You recognized the double team and made the right pass to the open teammate for an easy basket."
+63,64,Providing feedback on offensive execution,"Coach: Great job executing the play, guys! We got the open shot we wanted. Let's keep running our sets effectively."
+64,65,Instructing on defensive communication,"Coach: Talk on defense, guys! Call out screens, switches, and help your teammates. Communication is crucial."
+65,66,Calling for a post-up play,Coach: Get the ball inside to Jack! Let's exploit the mismatch and score in the paint.
+66,67,Analyzing defensive weaknesses,Coach: They're finding success with dribble penetration. Let's provide better help defense and rotate quicker to cut off their drives.
+67,68,Encouraging unselfish play,"Coach: Great job making the extra pass, Emily! Unselfish plays like that create better scoring opportunities for our team."
+68,69,Calling for an offensive set,Coach: Let's run a high pick-and-roll! Create opportunities for a drive or a kick-out pass to an open shooter.
+69,70,Instructing on defensive closeouts,"Coach: Close out on shooters under control, guys! Don't give them open looks from beyond the arc."
+70,71,Discussing defensive adjustments,Coach: They're exploiting our weak side defense. Let's rotate quicker and provide better help to prevent easy baskets.
+71,72,Encouraging resilience,"Coach: We're facing a tough opponent, but don't let that discourage you. Keep fighting, keep competing, and we can turn this game around."
+72,73,Providing feedback on shot selection,"Coach: Good shot selection, Mike! You had an open look and took it with confidence. Keep shooting when you're in rhythm."
+73,74,Calling for a defensive switch,Coach: Switch on screens! Make sure to communicate the switches and stay with your assigned players.
+74,75,Instructing on offensive patience,"Coach: We're rushing our shots. Let's be more patient on offense, move the ball, and wait for good scoring opportunities."
+75,76,Analyzing offensive opportunities,Coach: They're struggling to guard our pick-and-roll. Let's keep running it and exploit their defensive weaknesses.
+76,77,Urging for a strong defensive effort,"Coach: We need to step up our defense, team! Communicate, stay disciplined, and contest every shot."
+77,78,Discussing offensive adjustments,Coach: They're denying our passes on the perimeter. Let's utilize backdoor cuts and create scoring opportunities inside.
+78,79,Encouraging a player's effort,"Coach: Great hustle, Sarah! You're giving it your all on both ends of the court. Keep up the energy!"
+79,80,Calling for a timeout,Coach: Timeout! We need to regroup and make some adjustments. Let's discuss our game plan and execute it.
+80,81,Instructing on defensive rotations,Coach: We're getting caught out of position on rotations. Let's close out on shooters and contest shots with urgency.
+81,82,Calling for offensive movement,"Coach: Let's increase our off-ball movement, team. Set screens, cut hard, and create opportunities for each other."
+82,83,Encouraging a player's decision-making,"Coach: Good decision, John! You recognized the double team and made the right pass to the open teammate for an easy basket."
+83,84,Providing feedback on offensive execution,"Coach: Great job executing the play, guys! We got the open shot we wanted. Let's keep running our sets effectively."
+84,85,Instructing on defensive communication,"Coach: Talk on defense, guys! Call out screens, switches, and help your teammates. Communication is crucial."
+85,86,Calling for a post-up play,Coach: Get the ball inside to Jack! Let's exploit the mismatch and score in the paint.
+86,87,Analyzing defensive weaknesses,Coach: They're finding success with dribble penetration. Let's provide better help defense and rotate quicker to cut off their drives.
+87,88,Encouraging unselfish play,"Coach: Great job making the extra pass, Emily! Unselfish plays like that create better scoring opportunities for our team."
+88,89,Calling for an offensive set,Coach: Let's run a high pick-and-roll! Create opportunities for a drive or a kick-out pass to an open shooter.
+89,90,Instructing on defensive closeouts,"Coach: Close out on shooters under control, guys! Don't give them open looks from beyond the arc."
+90,91,Discussing defensive adjustments,Coach: They're exploiting our weak side defense. Let's rotate quicker and provide better help to prevent easy baskets.
+91,92,Encouraging resilience,"Coach: We're facing a tough opponent, but don't let that discourage you. Keep fighting, keep competing, and we can turn this game around."
+92,93,Providing feedback on shot selection,"Coach: Good shot selection, Mike! You had an open look and took it with confidence. Keep shooting when you're in rhythm."
+93,94,Calling for a defensive switch,Coach: Switch on screens! Make sure to communicate the switches and stay with your assigned players.
+94,95,Instructing on offensive patience,"Coach: We're rushing our shots. Let's be more patient on offense, move the ball, and wait for good scoring opportunities."
+95,96,Analyzing offensive opportunities,Coach: They're struggling to guard our pick-and-roll. Let's keep running it and exploit their defensive weaknesses.
+96,97,Urging for a strong defensive effort,"Coach: We need to step up our defense, team! Communicate, stay disciplined, and contest every shot."
+97,98,Discussing offensive adjustments,Coach: They're denying our passes on the perimeter. Let's utilize backdoor cuts and create scoring opportunities inside.
+98,99,Encouraging a player's effort,"Coach: Great hustle, Sarah! You're giving it your all on both ends of the court. Keep up the energy!"
+99,100,Calling for a timeout,Coach: Timeout! We need to regroup and make some adjustments. Let's discuss our game plan and execute it.
