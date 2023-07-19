@@ -37,8 +37,7 @@ bball_coach = dialoader('sports', 'basketball_coach')
 ```
 from datasets import load_dataset
 
-# load as pandas dataframe
-bball_coach = load_dataset('fun_dialogues', 'basketball_coach')
+dataset = load_dataset("FunDialogues/academia-physics-office-hours")
 ```
 
 ## How to Contribute
