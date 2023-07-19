@@ -26,7 +26,7 @@ Loading dialogues can be accomplished using the fun dialogues library or Hugging
 from fundialogues import dialoader
 
 # load as pandas dataframe
-bball_coach = dialoader('sports', 'basketball_coach')
+physics_office_hours = dialoader("FunDialogues/academia-physics-office-hours")
 ```
 
 ## Loading using Hugging Face datasets
@@ -37,7 +37,7 @@ bball_coach = dialoader('sports', 'basketball_coach')
 ```
 from datasets import load_dataset
 
-dataset = load_dataset("FunDialogues/academia-physics-office-hours")
+physics_office_hours = load_dataset("FunDialogues/academia-physics-office-hours")
 ```
 
 ## How to Contribute
