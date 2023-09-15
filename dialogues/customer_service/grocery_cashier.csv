@@ -1,4 +1,4 @@
-,id,description,dialogue
+index,id,description,dialogue
 0,1,Price inquiry,"Customer: Excuse me, could you tell me the price of the apples per pound? Cashier: Certainly! The price for the apples is $1.99 per pound."
 1,2,Product availability,"Cashier: Good afternoon! How can I assist you today? Customer: Hi, do you have any gluten-free bread in stock? Cashier: Yes, we do. It's located in aisle 6, right next to the organic section."
 2,3,Coupon usage,"Customer: I have this coupon for 20% off. Can I use it on this purchase? Cashier: Of course! Let me scan it for you. Great, your total comes to $32.50 after applying the discount."

@@ -1,4 +1,4 @@
-,id,description,dialogue
+index,id,description,dialogue
 0,1,Understanding the concept of velocity,"Student: Professor, I'm having trouble understanding the concept of velocity. Could you please explain it to me?
 
 Professor: Of course! Velocity is a fundamental concept in physics that describes the rate of change of an object's position with respect to time. It is a vector quantity, which means it has both magnitude and direction. To calculate velocity, you divide the change in position by the change in time. It is important to note that velocity takes into account both speed and direction. For example, if an object is moving north at a speed of 20 meters per second, its velocity is 20 meters per second in the north direction. Does that clarify it for you?"

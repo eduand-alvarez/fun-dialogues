@@ -1,4 +1,4 @@
-,id,description,dialogue
+index,id,description,dialogue
 0,1,Robotic arm calibration issue,"Customer: My robotic arm seems to be misaligned. It's not picking objects accurately. What can I do? Agent: It appears that the arm may need recalibration. Please follow the instructions in the user manual to reset the calibration settings. If the problem persists, feel free to contact us again."
 1,2,Overheating problem in production line arm,Customer: The robotic arm in our production line has started overheating. Is this normal? Agent: Overheating is not normal and could be dangerous. Please power off the arm immediately and check the cooling system for any blockages or leaks. Contact a professional if necessary.
 2,3,Robotic arm making strange noises,"Customer: Our robotic arm has been making a weird grinding noise. Can you help? Agent: The grinding noise might indicate wear in the mechanical joints. Try lubricating the joints with the recommended oil or grease as per the maintenance guidelines. If the noise persists, we'll further investigate the issue."
