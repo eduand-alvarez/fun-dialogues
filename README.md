@@ -5,7 +5,7 @@ A library of datasets, LLM tooling, and open source models that can be used for 
 
 # Benchmark Datasets
 
-## OpenGeoQuery: coming soon!
+## Coming soon!
 
 # Models
 
