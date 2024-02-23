@@ -13,7 +13,6 @@ You can install fun dialogues using pip: `pip install fundialogues`
 </div>
 
 # JudgyRAG
-
 JudgyRAG is a component of the FunDialogues Python library focused on evaluating the performance of Retrieval-Augmented Generation (RAG) systems. It facilitates this by creating synthetic datasets based on custom datasets, enabling a unique assessment of a RAG system's question-answering capabilities in a zero-shot Q&A context. Initially, JudgyRAG's primary functionality is the automatic generation of custom multiple-choice Q&A datasets. Future iterations will introduce further automation to seamlessly integrate with popular frameworks, enhancing testing and benchmarking processes.
 
 ### Workflow
