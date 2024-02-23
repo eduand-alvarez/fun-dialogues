@@ -13,7 +13,6 @@ You can install fun dialogues using pip: `pip install fundialogues`
 </div>
 
 # JudgyRAG
-
 JudgyRAG is a component of the FunDialogues Python library focused on evaluating the performance of Retrieval-Augmented Generation (RAG) systems. It facilitates this by creating synthetic datasets based on custom datasets, enabling a unique assessment of a RAG system's question-answering capabilities in a zero-shot Q&A context. Initially, JudgyRAG's primary functionality is the automatic generation of custom multiple-choice Q&A datasets. Future iterations will introduce further automation to seamlessly integrate with popular frameworks, enhancing testing and benchmarking processes.
 
 ### Workflow
@@ -89,7 +88,6 @@ benchgen(chunk_file, benchmark_output_directory)
 ### opengeoquery-v1
 OpenGeoQuery-v1 is the first edition of a benchmark dataset composed of statements associated with the geosciences. The content of the dataset touches on topics like geophysics, petrology, minerology, seismology, geomorphology, etc. The purpose of this dataset is to use as a benchmark and for fine-tuning small geoscience LLMs (coming soon).
 
-
 # Dialogues
 - Customer Service
   - Grocery Cashier: 100 fictitious examples of dialogues between a customer at a grocery store and the cashier.
@@ -102,9 +100,7 @@ OpenGeoQuery-v1 is the first edition of a benchmark dataset composed of statemen
 - Sports
   - Basketball Coach: 100 fictitious examples of dialogues between a basketball coach and the players on the court during a game.
  
-
 ### How to Load Dialogues
-
 Loading dialogues can be accomplished using the fun dialogues library or Hugging Face datasets library. 
 
 ### Load using fun dialogues
